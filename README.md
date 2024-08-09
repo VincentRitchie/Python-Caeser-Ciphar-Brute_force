@@ -27,8 +27,8 @@ This repository contains a Python implementation of the Caesar Cipher. The Caesa
 To install and run this project, follow these steps:
 
 ```sh
-git clone https://github.com/yourusername/repo.git
-cd repo
+git clone https://github.com/VincentRitchie/Python-Caeser-Ciphar-Brute_force.git
+cd Python-Caeser-Ciphar-Brute_force
 python install
 
 ## Usage
@@ -88,6 +88,6 @@ Vincent Chimaobi (CyberGhoxt)
 Connect with me on 
 - [GitHub](https://www.github.com/VincentRitchie/VincentRitchie)
 
-- [LinkedIn](https://ng.linkedin.com/in/vincent-chimaobi)
+- [LinkedIn](https://www.linkedin.com/in/vincent-chimaobi-53b458216?trk=contact-info)
 
 - [X](https://x.com/vin_chimaobi042)
